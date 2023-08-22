@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Silviatulli
-- 👀 I’m interested in topics at the intersection of machine learning and explainable AI
-- 🌱 I’m currently assisting laboratories and courses at Sorbonne University
+- 👀 I’m interested in topics at the intersection of machine learning, explainable AI and human-robot interaction
+- 🌱 I’m currently assisting laboratories and courses at Sorbonne University and Sciences Po
 - 📫 How to reach me tulli@isir.upmc.fr
 
 <!---
