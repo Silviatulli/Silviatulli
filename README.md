@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Silviatulli
-- 👀 I’m doing research in topics at the intersection of machine learning, explainable AI and human-robot interaction at the Institute of Intelligent Systems and Robotics (ISIR)
-- 🌱 I’m leading and assisting laboratories and courses at Sorbonne University and Sciences Po
+- 👀 I conduct research at the intersection of machine learning, explainable AI and human-robot interaction at the Institute of Intelligent Systems and Robotics (ISIR)
+- 🌱 I lead and assist laboratories and courses at Sorbonne University and Sciences Po
 - 📫 Drop me an email: tulli@isir.upmc.fr
 
 <!---
